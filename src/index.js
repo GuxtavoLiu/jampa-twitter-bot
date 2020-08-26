@@ -2,7 +2,7 @@ const twit = require("twit");
 const config = require("./config.js");
 const T = new twit(config);
 
-const q = "%22joao%20pessoa%22";
+const q = "Paranavaí%20OR%20pvai";
 
 var query = {
   q,
